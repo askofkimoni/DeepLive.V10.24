@@ -50,9 +50,9 @@ start.bat
 
 ## 📺 Screenshot (Click the image to watch the video on YouTube):
 
-[![Screenshot](https://github.com/benzitools/DeepLive.V10.24/blob/main/screenshot/1.png)](https://youtu.be/0Vhw7FxUz8Q)
+[![Screenshot](https://github.com/benzitools/DeepLive.V10.24/blob/main/Screenshot/1.png)](https://youtu.be/0Vhw7FxUz8Q)
 
-[![Screenshot](https://github.com/benzitools/DeepLive.V10.24/blob/main/screenshot/2.png)](https://youtu.be/0Vhw7FxUz8Q)
+[![Screenshot](https://github.com/benzitools/DeepLive.V10.24/blob/main/Screenshot/2.png)](https://youtu.be/0Vhw7FxUz8Q)
 
 ---
 
